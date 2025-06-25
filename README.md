@@ -1,6 +1,3 @@
-Absolutely! Here's your finalized and **clean** version of the `README.md` with the **"How to Run"** section **formatted properly**—without being inside a code block—so it renders well on GitHub and avoids confusion:
-
----
 
 ````markdown
 # 💓 Heart Failure Prediction
