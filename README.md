@@ -93,7 +93,7 @@ Implemented and compared the performance of:
 1. **Clone this repository**  
    Run the following command in your terminal:
    ```bash
-   git clone https://github.com/your-username/heart-failure-prediction.git
+   git clone https://github.com/your-username/heart-failure-prediction.git](https://github.com/Vishali-m05/Heart_Failure_Prediction
    cd heart-failure-prediction
 
 
